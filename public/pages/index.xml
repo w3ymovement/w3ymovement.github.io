@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pages on حركة إباء</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on حركة إباء</description>
+    <image>
+      <title>حركة إباء</title>
+      <url>http://localhost:1313/ibaa-wide.png</url>
+      <link>http://localhost:1313/ibaa-wide.png</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>ar</language>
+    <lastBuildDate>Thu, 16 Jan 2025 13:19:24 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>أعضاء الحركة</title>
+      <link>http://localhost:1313/pages/members/</link>
+      <pubDate>Thu, 16 Jan 2025 13:19:24 +0300</pubDate>
+      <guid>http://localhost:1313/pages/members/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;تيسير عبدالهادي @abu_yuser&lt;/li&gt;
+&lt;li&gt;شهلاء حسام الدين @Fatpatcat77318&lt;/li&gt;
+&lt;li&gt;هادي الأحمد @hadealahmad&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>ميثاق إباء</title>
+      <link>http://localhost:1313/pages/about/</link>
+      <pubDate>Thu, 16 Jan 2025 13:07:39 +0300</pubDate>
+      <guid>http://localhost:1313/pages/about/</guid>
+      <description>&lt;h1 id=&#34;بسم-الله-الرحمن-الرحيم&#34;&gt;بسم الله الرحمن الرحيم&lt;/h1&gt;
+&lt;h2 id=&#34;البيان-التأسيسي-لحركة-إباء&#34;&gt;البيان التأسيسي لحركة إباء&lt;/h2&gt;
+&lt;p&gt;الرحمة لشهدائنا، والشفاء العاجل للمصابين والجرحى، والعدالة لمعتقلينا المحررين وذويهم الصابرين وذوي المغيّبين والمفقودين. ندعو الله أن يجمع كلمتنا ويجبر كسرنا ويلم شملنا بالمهاجرين والنازحين في المخيمات والمغترب، وأن يمنحنا الأمن والاستقرار والطمأنينة، ويديمهم علينا.&lt;/p&gt;
+&lt;p&gt;نعلن كمجموعةٍ من أبناء الشعب السوري عن انطلاق حركة إباء، حركةٍ غير حزبيّة غير فرقوية، تهدف لتوحيد كلمة أحرار سوريا حول مبادئ لا يمكن أن نحيد عنها بمختلف توجهاتنا وتطلعاتنا وآرائنا السياسية، لحماية ثورتنا ومكتسباتها وصورتها، ولنبقى خارج ضجيج التشويه والتحريف والعبث المستمر للحقائق التي عشناها خلال 14 عامٍ.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

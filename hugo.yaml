@@ -1,0 +1,126 @@
+baseURL: "https://ibaamovement.githubpages.com/"
+title: حركة إباء
+paginate: 5
+theme: https://github.com/adityatelange/hugo-PaperMod
+defaultContentLanguage: ar
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: حركة إِباء - Ibaa Movement
+  description: "حركة الحفاظ على مكتسبات الثورة السورية
+حركة إباء، ولاء ووفاء."
+  keywords: [حركة سياسية, سوريا, موقع تعريفي]
+  author:
+  # author: ["Me", "You"] # multiple authors
+  images: ["ibaa-wide.png"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: light # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/ibaa.png"
+    favicon16x16: "/ibaa.png"
+    favicon32x32: "/ibaa.png"
+    apple_touch_icon: "/ibaa.png"
+    safari_pinned_tab: "/ibaa.png"
+
+  label:
+    text: "حركة إباء - Ibaa Movement"
+    icon: ibaa.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: حركة إباء - Ibaa Movement
+    subtitle: "حركة الحفاظ على مكتسبات الثورة السورية"
+    imageUrl: "/ibaa.png"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: ibaa movement logo
+    buttons:
+      - name: ميثاق الحركة
+        url: pages/about
+      - name: أعضاء الحركة
+        url: pages/members
+
+  # home-info mode
+  homeInfoParams:
+    Title: "حركة إباء - Ibaa Movement "
+    Content: حركة الحفاظ على مكتسبات الثورة السورية
+  socialIcons:
+    - name: x
+      url: "https://x.com/Ibaateam/"
+    - name: facebook
+      url: "https://facebook.com"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: about
+      name: ميثاق الحركة
+      url: /pages/about
+      weight: 10
+    - identifier: members
+      name: الأعضاء
+      url: /pages/members
+      weight: 20
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
