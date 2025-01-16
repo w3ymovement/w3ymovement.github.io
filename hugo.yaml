@@ -44,11 +44,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/ibaa.png"
-    favicon16x16: "/ibaa.png"
-    favicon32x32: "/ibaa.png"
-    apple_touch_icon: "/ibaa.png"
-    safari_pinned_tab: "/ibaa.png"
+    favicon: "/static/ibaa.png"
+    favicon16x16: "/static/ibaa.png"
+    favicon32x32: "/static/ibaa.png"
+    apple_touch_icon: "/static/ibaa.png"
+    safari_pinned_tab: "/static/ibaa.png"
 
   label:
     text: "حركة إباء - Ibaa Movement"
@@ -60,7 +60,7 @@ params:
     enabled: true # needs to be explicitly set
     title: حركة إباء - Ibaa Movement
     subtitle: "حركة الحفاظ على مكتسبات الثورة السورية"
-    imageUrl: "/ibaa.png"
+    imageUrl: "static/ibaa.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: ibaa movement logo
