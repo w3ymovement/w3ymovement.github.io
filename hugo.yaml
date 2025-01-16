@@ -78,7 +78,7 @@ params:
     - name: x
       url: "https://x.com/Ibaateam/"
     - name: facebook
-      url: "https://facebook.com"
+      url: "https://www.facebook.com/profile.php?id=61571688977140"
 
   analytics:
     google:
