@@ -1,7 +1,7 @@
 baseURL: "https://ibaamovement.githubpages.com/"
 title: حركة إباء
 paginate: 5
-theme: https://github.com/adityatelange/hugo-PaperMod
+theme: PaperMod
 defaultContentLanguage: ar
 enableRobotsTXT: true
 buildDrafts: false
