@@ -1,5 +1,5 @@
-baseURL: "https://hadealahmad.github.io/ibaamovement/"
-title: حركة إباء
+baseURL: "https://hadealahmad.github.io/w3ymovement/"
+title: حركة وعي
 paginate: 5
 theme: PaperMod
 defaultContentLanguage: ar
@@ -14,13 +14,13 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: حركة إِباء - Ibaa Movement
-  description: "حركة الحفاظ على مكتسبات الثورة السورية
-حركة إباء، ولاء ووفاء."
+  title: حركة وعي
+  description: "حركة وعي على مكتسبات الثورة السورية
+حركة وعي، ولاء ووفاء."
   keywords: [حركة سياسية, سوريا, موقع تعريفي]
   author:
   # author: ["Me", "You"] # multiple authors
-  images: ["ibaa-wide.png"]
+  images: ["w3y-wide.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: light # dark, light
   disableThemeToggle: false
@@ -44,23 +44,23 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "ibaa.png"
-    favicon16x16: "ibaa.png"
-    favicon32x32: "ibaa.png"
-    apple_touch_icon: "ibaa.png"
-    safari_pinned_tab: "ibaa.png"
+    favicon: "w3y.png"
+    favicon16x16: "w3y.png"
+    favicon32x32: "w3y.png"
+    apple_touch_icon: "w3y.png"
+    safari_pinned_tab: "w3y.png"
 
   label:
-    text: "حركة إباء - Ibaa Movement"
-    icon: ibaa.png
+    text: "حركة وعي"
+    icon: w3y.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: حركة إباء - Ibaa Movement
+    title: حركة وعي
     subtitle: "حركة الحفاظ على مكتسبات الثورة السورية"
-    imageUrl: "ibaa.png"
+    imageUrl: "w3y.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: ibaa movement logo
@@ -72,13 +72,11 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "حركة إباء - Ibaa Movement "
+    Title: "حركة وعي "
     Content: حركة الحفاظ على مكتسبات الثورة السورية
   socialIcons:
     - name: x
-      url: "https://x.com/Ibaateam/"
-    - name: facebook
-      url: "https://www.facebook.com/profile.php?id=61571688977140"
+      url: "https://x.com/w3ymovement/"
 
   analytics:
     google:
