@@ -70,7 +70,7 @@ params:
       - name: أعضاء الحركة
         url: pages/members
       - name: التحقيقات والتقارير
-        url: posts
+        url: posts/
   # home-info mode
   homeInfoParams:
     Title: "حركة وعي "
