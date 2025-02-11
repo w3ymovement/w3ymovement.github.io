@@ -69,7 +69,7 @@ params:
         url: pages/about
       - name: أعضاء الحركة
         url: pages/members
-    - name: التجقيقات والتقارير
+      - name: التجقيقات والتقارير
         url: posts
   # home-info mode
   homeInfoParams:
