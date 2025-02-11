@@ -113,7 +113,7 @@ menu:
       name: أعضاء الحركة
       url: /pages/members
       weight: 10
-      - identifier: posts
+    - identifier: posts
       name: التحقيقات والتقارير
       url: /posts/
       weight: 30
