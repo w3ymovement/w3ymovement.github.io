@@ -110,13 +110,13 @@ menu:
       url: /pages/about
       weight: 10
     - identifier: members
-      name: الأعضاء
+      name: أعضاء الحركة
       url: /pages/members
-      weight: 20
+      weight: 10
       - identifier: posts
       name: التحقيقات والتقارير
-      url: /posts
-      weight: 20
+      url: /posts/
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
